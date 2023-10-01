@@ -1,2 +1,2 @@
 # hussain_GJK
-Basic GJK Algorithm that checks for collisions
+Basic GJK Algorithm that checks for collisions of Polygons in 2D 
